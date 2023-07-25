@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pU2ojgK9qAQsPCJW5qnOMDXsnP2VSVxAyZSzgBENVYPt+YvL8H2u7YaucUZreqEqI9ShGysq0ubsQm2D46MjJg==",
+  "success": true,
+  "projectFilePath": "G:\\Praca\\IT\\C#\\Bydlaq\\Bydlaq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.csproj.AssemblyReference.cache
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.GeneratedMSBuildEditorConfig.editorconfig
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.AssemblyInfoInputs.cache
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.AssemblyInfo.cs
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.csproj.CoreCompileInputs.cache
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Bydlaq.exe
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Bydlaq.deps.json
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Bydlaq.runtimeconfig.json
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Bydlaq.dll
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Bydlaq.pdb
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.dll
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\refint\Bydlaq.dll
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.pdb
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.genruntimeconfig.cache
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\ref\Bydlaq.dll
+G:\Praca\IT\C#\Bydlaq\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Praca\IT\C#\Bydlaq\obj\Debug\net6.0\Bydlaq.csproj.CopyComplete
